@@ -22,7 +22,7 @@
 
 - [**Legal Logic Dashboard**](https://github.com/Lightyagami788/legal-logic-dashboard): Visualizing and managing legal workflows with intelligent dashboards.
 - **Astro Userbot:** Automation bot for seamless Telegram experience.
-- **Group Managerobot:** Powerful Telegram group management with AI-driven features.
+- **Classification of Arrythmenia:** Data analysis tool to predict if the person has arrythmenina
 
 > Explore more of my projects in the pinned section!
 
