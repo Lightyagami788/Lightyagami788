@@ -47,16 +47,6 @@ TELEGRAM ☞︎︎︎ <a href="https://t.me/yagiiipa"> <img src="https://img.shi
 
 ---
 
-## 📊 GitHub Stats
-
-![Ameya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lightyagami788&show_icons=true&theme=radical&hide_title=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lightyagami788&layout=compact&theme=radical)
-
----
-
-> “Consistency is the key to mastery.”  
-Let’s connect, collaborate, and create something awesome together!
-
 
 
 
