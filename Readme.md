@@ -21,7 +21,7 @@
 ## 🌟 Featured Projects
 
 - [**Legal Logic Dashboard**](https://github.com/Lightyagami788/legal-logic-dashboard): Visualizing and managing legal workflows with intelligent dashboards.
-- **Astro Userbot:** Automation bot for seamless Telegram experience.
+- [**PharmaAi:**](https://github.com/Pharmaai-react/Pharmaai): AI Powered Pharmacy Inventory System
 - **Classification of Arrythmenia:** Data analysis tool to predict if the person has arrythmenina
 
 > Explore more of my projects in the pinned section!
