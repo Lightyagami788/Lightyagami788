@@ -6,7 +6,7 @@
 
 ## ⏳ On GitHub since 2021
 
-> Building, learning, and collaborating for over **4 years**!
+> Building, learning, and collaborating for over **5 years**!
 
 ---
 
